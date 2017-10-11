@@ -1,0 +1,104 @@
+    @import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+
+    .uobox{
+        font-family: 'Roboto', sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+		.uobox{
+			background-color:  #00216b;
+            border: 1px solid #dddddd;
+			width: 70%;
+			margin: 20px auto;
+		}
+
+        .uobox table{
+            margin-bottom: 0;
+        }
+
+		.uobox h2{
+			color: #ffffff;
+			font-size:18px;
+            margin: 0;
+            padding-left: 25px;
+            line-height: 1.5;
+		}
+        .white{background-color: #ffffff;padding: 15px 0}
+        h2 span{font-weight: 400;}
+		.uobox a{color: #ffffff;text-decoration: underline;}
+		.uobox a:hover{color: #ffffff;text-decoration: underline;opacity: .9;}
+		.uobox .middle-xs {
+			-webkit-box-align: center;
+			-ms-flex-align: center;
+			align-items: center;
+			box-sizing: border-box;
+			display: -webkit-box;
+			display: -ms-flexbox;
+			display: flex;
+			-webkit-box-flex: 0;
+			-ms-flex: 0 1 auto;
+			flex: 0 1 auto;
+			-webkit-box-orient: horizontal;
+			-webkit-box-direction: normal;
+			-ms-flex-direction: row;
+			flex-direction: row;
+			-ms-flex-wrap: wrap;
+			flex-wrap: wrap;
+		}
+
+        .uobox .left{
+            width: 70%;
+            float: left;
+        }
+
+        .uobox .right{
+            width: 30%;
+            float: left;
+        }
+
+        .uobox .right img {
+            width: 50%;
+            float: left;
+            padding: 0 15px;
+            border:1px solid #dddddd;
+            background-color: #ffffff;
+        }
+
+        .uobox .right img:first-child{
+            border-top:1px solid transparent;
+            border-right:1px solid transparent;
+            border-bottom:1px solid transparent;
+        }
+
+        .uobox .right img:nth-child(2){
+            border-top:1px solid transparent;
+            border-right:1px solid transparent;
+            border-bottom:1px solid transparent;
+        }
+
+        .uobox .right img:nth-child(3){
+            border-right:1px solid transparent;
+            border-bottom:1px solid transparent;
+        }
+
+        .uobox .right img:nth-child(4){
+            border-right:1px solid transparent;
+            border-bottom:1px solid transparent;
+        }
+
+        @media (max-width: 767px){
+            .uobox .left , .uobox .right{
+                float: none;
+                width: 100%;
+            }
+
+            .uobox .right img {
+            width: 25%;
+            float: left;}
+
+            .uobox h2{
+            	padding: 20px;
+            }
+        }
+        
