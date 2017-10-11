@@ -102,3 +102,94 @@
             }
         }
         
+
+
+
+
+/*simulasi pinjaman usaha*/
+
+         .simulasi-pinjaman-usaha {
+             font-family: 'Roboto', sans-serif;
+             color: #5d5d5f;
+             -webkit-font-smoothing: antialiased;
+             -moz-osx-font-smoothing: grayscale;
+         }
+         
+         .simulasi-pinjaman-usaha .kalkulator-modal-kerja,
+         .simulasi-pinjaman-usaha .penawaran {
+             padding: 15px;
+         }
+         
+         .kalkulator-modal-kerja h4 {
+             margin-top: 0;
+             margin-bottom: 15px;
+             font-size: 20px;
+             color: #5d5d5f;
+         }
+         
+         .simulasi-pinjaman-usaha {
+             border: 1px solid #dddddd;
+             margin-bottom: 20px;
+         }
+         
+         .simulasi-pinjaman-usaha label {
+             font-weight: 400;
+             color: #666;
+         }
+         
+         .simulasi-pinjaman-usaha .form-control,
+         .simulasi-pinjaman-usaha .input-group-addon {
+             height: auto;
+             box-sizing: border-box;
+             border: 1px solid #dbe2e8;
+             box-shadow: 0 2px 2px 0 rgba(46, 60, 73, .05);
+             border-radius: 2px;
+         }
+         
+         .simulasi-pinjaman-usaha .form-control,
+         .simulasi-pinjaman-usaha label,
+         .simulasi-pinjaman-usaha .input-group-addon {
+             font-size: 13px;
+         }
+         
+         .simulasi-pinjaman-usaha .form-control:active,
+         .simulasi-pinjaman-usaha .form-control:focus {
+             outline: none;
+         }
+         
+         .simulasi-pinjaman-usaha input.currency,
+         .simulasi-pinjaman-usaha .form-control {
+             text-align: right;
+             padding-right: 15px;
+         }
+         
+         .simulasi-pinjaman-usaha .input-group-addon:first-child {
+             border-right: 0 !important;
+         }
+         
+         .simulasi-pinjaman-usaha .rightinput {
+             padding: 0 0 15px 15px;
+         }
+         
+         .simulasi-pinjaman-usaha .penawaran {
+             border-top: 1px solid #dddddd;
+         }
+         
+         .simulasi-pinjaman-usaha .middle-xs {
+             -webkit-box-align: center;
+             -ms-flex-align: center;
+             align-items: center;
+             box-sizing: border-box;
+             display: -webkit-box;
+             display: -ms-flexbox;
+             display: flex;
+             -webkit-box-flex: 0;
+             -ms-flex: 0 1 auto;
+             flex: 0 1 auto;
+             -webkit-box-orient: horizontal;
+             -webkit-box-direction: normal;
+             -ms-flex-direction: row;
+             flex-direction: row;
+             -ms-flex-wrap: wrap;
+             flex-wrap: wrap;
+         }
