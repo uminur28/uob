@@ -114,7 +114,11 @@
              -moz-osx-font-smoothing: grayscale;
          }
          
-         .simulasi-pinjaman-usaha .kalkulator-modal-kerja,
+         .simulasi-pinjaman-usaha .kalkulator-modal-kerja{
+		padding: 0;
+	    	margin: 5px;
+	}
+
          .simulasi-pinjaman-usaha .penawaran {
              padding: 15px;
          }
@@ -124,6 +128,7 @@
              margin-bottom: 15px;
              font-size: 20px;
              color: #5d5d5f;
+		padding: 10px;
          }
          
          .simulasi-pinjaman-usaha {
