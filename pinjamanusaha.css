@@ -8,9 +8,8 @@
 
 		.uobox{
 			background-color:  #00216b;
-            border: 1px solid #dddddd;
-			width: 70%;
-			margin: 20px auto;
+            		border: 1px solid #dddddd;
+			margin: 0 auto 20px;
 		}
 
         .uobox table{
