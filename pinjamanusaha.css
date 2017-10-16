@@ -115,8 +115,8 @@
          }
          
          .simulasi-pinjaman-usaha .kalkulator-modal-kerja{
-		padding: 0;
-	    	margin: 5px;
+		padding: 5px;
+	    	margin: 0;
 	}
 
          .simulasi-pinjaman-usaha .penawaran {
