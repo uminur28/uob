@@ -351,9 +351,12 @@
 		    text-align: center;
 		}
 
+#cfade {
+    margin-top: 30px;
+}
 
-@media (width: 1366px){
+/*@media (width: 1366px){
 	.kalkulator-modal-kerja {
 	    margin: 0px 0 19px 30px;
 	}
-}
+}*/
