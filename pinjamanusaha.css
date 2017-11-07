@@ -355,8 +355,11 @@
     margin-top: 20px;
 }
 
-/*@media (width: 1366px){
+@media (max-width: 767px){
 	.kalkulator-modal-kerja {
-	    margin: 0px 0 19px 30px;
+	    margin: 20px 0;
 	}
-}*/
+	.top-pinjaman-uob {
+    	    border-left: none;
+	}
+}
