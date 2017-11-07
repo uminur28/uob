@@ -362,4 +362,7 @@
 	.top-pinjaman-uob {
     	    border-left: none;
 	}
+	.pinjaman-uob .nav-tabs {
+	    height: auto;
+	}
 }
