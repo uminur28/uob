@@ -212,7 +212,7 @@
 		    -moz-osx-font-smoothing: grayscale;
 		}
 		.kalkulator-modal-kerja {
-		    margin: 30px 0 30px 30px;
+    			margin: 20px 0 0 20px;
 		}
 		.kalkulator-modal-kerja h2{
 		    margin-top:0;
@@ -352,7 +352,7 @@
 		}
 
 #cfade {
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 /*@media (width: 1366px){
