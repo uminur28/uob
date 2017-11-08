@@ -376,5 +376,8 @@
 	.pinjaman-uob .box {
 	    padding: 15px 15px;
 	}
+	.pinjaman-uob .content h1 {
+	    font-size: 16px;
+	}
 	
 }
