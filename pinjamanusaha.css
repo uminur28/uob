@@ -381,3 +381,10 @@
 	}
 	
 }
+
+@media (min-width:992){
+	.content {
+	    top: -5px;
+	    position: relative;
+	}
+}
