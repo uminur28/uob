@@ -382,7 +382,7 @@
 	
 }
 
-@media (min-width:992){
+@media (min-width:992px){
 	.content {
 	    top: -5px;
 	    position: relative;
