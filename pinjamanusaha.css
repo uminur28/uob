@@ -321,8 +321,8 @@
 
 		.pinjaman-uob .nav>li>a:focus, .pinjaman-uob .nav>li>a:hover {
 		    text-decoration: none;
-		    background-color: #F72E41;
-		    border-right: 1px solid #bb0b1c;
+		    background-color: #01228F;
+		border-right: 1px solid #01228F;
 		    border-left: none;
 		    border-top: none;
 		    border-bottom: none;
