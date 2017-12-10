@@ -138,7 +138,7 @@
          
          .simulasi-pinjaman-usaha label {
              font-weight: 400;
-             color: #666;
+             color: #000;
          }
          
          .simulasi-pinjaman-usaha .form-control,
@@ -224,7 +224,7 @@
 		}
 		.pinjaman-uob label{
 		    font-weight: 400;   
-		    color: #666;
+		    color: #000;
 		}
 
 		.pinjaman-uob .form-control, .pinjaman-uob .input-group-addon{
