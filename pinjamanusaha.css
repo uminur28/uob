@@ -10,7 +10,13 @@
 			background-color:  #002469;
             border: 1px solid #dddddd;
 			margin: 0 auto 20px;
-		}
+        }
+        
+        .btn-primary {
+            color: #fff;
+            background-color: #002469 !important;
+            border-color: #031c4b !important;
+        }
 
         .uobox table{
             margin-bottom: 0;
