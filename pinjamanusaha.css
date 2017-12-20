@@ -18,6 +18,10 @@
             border-color: #031c4b !important;
         }
 
+        .pinjaman-uob .btn-primary:hover{
+            opacity: .9;
+        }
+
         .uobox table{
             margin-bottom: 0;
         }
